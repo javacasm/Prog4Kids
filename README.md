@@ -46,3 +46,8 @@ Raspberry projects for kids
 [Computer Kit 199€](https://kano.me/store/eu/products/kano-kit)
 
 ![Computer kit](https://static.kano.me/assets/images/product-page/kano-kit/product/computer-kit.png)
+
+
+#### Recursos
+
+[Reutilizar un portatil roto con Raspberry](https://www.thingiverse.com/thing:573252)
