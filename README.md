@@ -48,6 +48,11 @@ Raspberry projects for kids
 ![Computer kit](https://static.kano.me/assets/images/product-page/kano-kit/product/computer-kit.png)
 
 
+#### [piper 299$](https://www.buildpiper.com/)
+
+![piper](https://cdn.shopify.com/s/files/1/0925/6256/t/54/assets/computerkit2_sm-min.png?8786595404755114638)
+
+
 #### Recursos
 
 [Reutilizar un portatil roto con Raspberry](https://www.thingiverse.com/thing:573252)
