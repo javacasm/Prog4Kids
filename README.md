@@ -26,26 +26,27 @@ Raspberry projects for kids
 
 ##### [Pi-topCEED  (149€)](https://pi-top.com/products/ceed)
 
-![Pi-topCEED](https://pi-top.com/static/media/green-ceed-front-pi.17f0fbcf.jpg)
+![Pi-topCEED](./images/ceed-front.1d96b32b.jpg)
 
-![Pi-topCEED inside](https://pi-top.com/static/media/ceed-hardware.dbe1beda.png)
+![Pi-topCEED inside](./images/ceed-hardware.dbe1beda.png)
 
 #### [Pi-top (299$)](https://pi-top.com/products/pi-top)
 
 * 13.3"
 * Batería
 *
+![Pi-top](./images/pi-top-front.9b851c1e.jpg)
 
-![Pi-top](https://pi-top.com/static/media/green-pitop-front-pi.b49774f8.jpg)
+![Pi-top](./images/slice-under.cc230070.jpg)
 
-![Pi-top inside](https://pi-top.com/static/media/pi-top-hardware.7ec7622a.png)
+![Pi-top inside](./images/slice-keyboard.3a6b1eef.png)
 
 #### [Kano](https://kano.me/)
 
 
 [Computer Kit 199€](https://kano.me/store/eu/products/kano-kit)
 
-![Computer kit](https://static.kano.me/assets/images/product-page/kano-kit/product/computer-kit.png)
+![Computer kit](./images/computer-kit-shop-2.png)
 
 
 #### [piper 299$](https://www.buildpiper.com/)
